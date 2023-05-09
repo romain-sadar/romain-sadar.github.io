@@ -251,12 +251,12 @@ h1,h2,h3,h4,h5
     }
 /* end work */
 
-.img{
+.img-veille{
     display: flex;
     justify-content: center;
 }
 
-.img img{
+.img-veille img{
     height: 300px;
 }
 
