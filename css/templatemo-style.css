@@ -251,6 +251,15 @@ h1,h2,h3,h4,h5
     }
 /* end work */
 
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+.img img{
+    height: 300px;
+}
+
 /* start about */
 #about h4
     {
@@ -321,6 +330,12 @@ h1,h2,h3,h4,h5
         opacity: 0.8;
         transform: scale(0.9);
     }
+
+#portfolio .portfolio-thumb .img{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
 /* end portfolio */
 
 /* start contact */
